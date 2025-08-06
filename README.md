@@ -9,11 +9,11 @@ Are you a fan of Deltarune and looking to craft your own custom prophecy panel j
 The Deltarune Prophecy Generator is a web-based tool inspired by the prophecy scenes from the beloved game Deltarune. With just a few clicks, anyone can create and export prophecy images or animated GIFs in authentic Deltarune style. Whether you want to make a meme, create fan art, or simply have fun, this generator gives you full creative freedom.
 
 ## Key Features
-	Multiple Themes: Choose from three classic templates—Classic Prophecy, Susie’s Dark World, and Final Prophecy—to match your vision and mood.
-	Easy Image Upload: Upload your own black-and-white or single-color image as the prophecy avatar. If you don’t have a single-color image, you can convert it directly on the website using the built-in guide.
-	Full Customization: Edit the prophecy text, adjust image scale and position, and see live previews as you work.
-	High-Quality Export: Download your prophecy as a crisp PNG image or a dynamic animated GIF, perfect for sharing across social media.
-	Instant Sharing: With one click, share your creation to Twitter, Discord, Tumblr, or wherever your community gathers.
+Multiple Themes: Choose from three classic templates—Classic Prophecy, Susie’s Dark World, and Final Prophecy—to match your vision and mood.
+Easy Image Upload: Upload your own black-and-white or single-color image as the prophecy avatar. If you don’t have a single-color image, you can convert it directly on the website using the built-in guide.
+Full Customization: Edit the prophecy text, adjust image scale and position, and see live previews as you work.
+High-Quality Export: Download your prophecy as a crisp PNG image or a dynamic animated GIF, perfect for sharing across social media.
+Instant Sharing: With one click, share your creation to Twitter, Discord, Tumblr, or wherever your community gathers.
 
 ## How to Use the Deltarune Prophecy Generator
 
